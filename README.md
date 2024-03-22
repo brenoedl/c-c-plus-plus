@@ -1,2 +1,2 @@
-# c-c-plus-plus
- 
+# c
+
