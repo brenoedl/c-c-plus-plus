@@ -6,5 +6,5 @@ void main(){
     float peso = 55.64;
     char nome[] = "Breno";
     setlocale(LC_ALL, "portuguese");
-    printf("O %s é do sexo %c e tem %i anos de idade, seu peso atual é de %.2fKg", nome, sexo, idade, peso) ;
+    printf("O %s ï¿½ do sexo %c e tem %i anos de idade, seu peso atual ï¿½ de %.2fKg", nome, sexo, idade, peso) ;
 }
